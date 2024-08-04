@@ -1,6 +1,7 @@
 # Decodificador_De_Texto⌨️
 para criptografar e descriptografar textos que aprendi na Alura + Oracle na qual fui aluna.
 O **Codificador de Texto** é uma aplicação simples que permite codificar e decodificar textos usando diferentes algoritmos. Ideal para aprendizado de técnicas básicas de criptografia e para se divertir com mensagens secretas!
+- na aba link aqui do repositório você encontra o link para o site😊
 
 ![Codificador de Texto](https://github.com/user-attachments/assets/d17e4922-2589-4d83-aa48-facad5f264c2)
 
