@@ -41,3 +41,4 @@ O **Codificador de Texto** é uma aplicação simples que permite codificar e de
 - 4:se quiser copiar resultado clicque no botao copiar resultado e um alerta confirmando cópia será exibido.
   
 
+⌨️ com 💜 por [Thayuana](www.linkedin.com/in/thayuanatrindade)
